@@ -24,3 +24,6 @@ javascript:alert('XSS')
 6
 data:text/javascript,alert('XSS')
 
+
+
+https://github.com/dicarix/XSS_php_demo
